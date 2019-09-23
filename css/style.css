@@ -1,0 +1,18 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.wrapper { 
+    width: 1200px;
+    margin: 0 auto;
+}
+
+/*
+*   header
+*/
+.header_content{
+    display: flex;
+    justify-content: space-between;
+}
+.list {
+    display: flex;
+}
